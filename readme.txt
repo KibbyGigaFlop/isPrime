@@ -1,1 +1,1 @@
-Yeehaw
+This purpose of this program is to tell whether or not a  number is prime.
